@@ -3,6 +3,10 @@ p{
     height: 100px;
     width: 100px;
 }
-.opacity{opacity: 0.5;}
-.blue{background-color: blue;}
+.opacity{
+    opacity: 0.5;
+}
+.blue{
+    background-color: blue;
+}
 
